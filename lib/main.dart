@@ -7,7 +7,7 @@ class IceCreamApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Ice Cream",
+      title: "Ice Cream App",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primaryColor: Colors.white),
       home: Home(),
